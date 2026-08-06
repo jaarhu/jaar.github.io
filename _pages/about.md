@@ -58,9 +58,9 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 |6| D.P. Barragán-Vázquez | *Started* mid-2024 | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico |
 |5| [Y.A. Becerra-Mora](https://prisma.us.es/investigador/9333) | Completion late-2026 *(estimated)* | Universidad de Sevilla, Spain |
 | |  **Past PhD**  | **Date** | |
-|4| [**C. Ruiz Paez**](https://prisma.us.es/publicacion/285735)   | 21/05/2026   | Universidad de Sevilla, Spain |
-|3| [**Y.E. Tlatelpa Osorio**](https://prisma.us.es/publicacion/246718)  | 29/04/2024  | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico  |
-|2| [**J.M. Díaz Cano**](https://prisma.us.es/publicacion/243652)   | 15/03/2024  | Universidad de Sevilla, Spain |
-|1| [**C.R. de Cos**](https://prisma.us.es/publicacion/183826)   | 26/03/2021   | Universidad de Sevilla, Spain |
+|4| [C. Ruiz Paez](https://prisma.us.es/publicacion/285735)   | 21/05/2026   | Universidad de Sevilla, Spain |
+|3| [Y.E. Tlatelpa Osorio](https://prisma.us.es/publicacion/246718)  | 29/04/2024  | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico  |
+|2| [J.M. Diaz Cano](https://prisma.us.es/publicacion/243652)   | 15/03/2024  | Universidad de Sevilla, Spain |
+|1| [C.R. de Cos](https://prisma.us.es/publicacion/183826)   | 26/03/2021   | Universidad de Sevilla, Spain |
 
 **[Page content](#page-content)** \(top\)
