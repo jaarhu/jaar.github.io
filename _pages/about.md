@@ -28,6 +28,7 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 <!--
 - 04/2026 : ***Hosting offer for MSCA PF 2026 Universidad de Sevilla (Spain):*** Hosting research group [Multi-Robot And Control Systems (MACS)](https://investigacion.us.es/sisius/sis_depgrupos.php?ct=&cs=&seltext=TEP-995&selfield=CodPAI). Department of Ingeniería de Sistemas y Automática - **[Location](https://maps.app.goo.gl/JVR7ho17tugRy3aJ8)** - ***Postdoctoral Position:*** *[EURAXESS post](https://euraxess.ec.europa.eu/jobs/hosting/hosting-offer-msca-pf-2026-universidad-de-sevilla-spain-department-ingenieria-de)* 
 -->
+- 08/2026: ***Appointment as IFAC TC member on “Nonlinear Control Systems”*** *[TC 2.3](https://tc.ifac-control.org/2/3/members)* - **[<i class="ai ai-ifac ai-fw icon-pad-left"></i>IFAC Technical Committee 2.3](https://tc.ifac-control.org/2/3)**.
 - 02/2026: ***Cybernetics: decoding Nature with a holistic bio-inspired nonlinear control approach*** paper in **[<i class="ai ai-ieee ai-fw icon-pad-left"></i>IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)**. Title: *["Perch like a bird: bio-inspired optimal maneuvers and nonlinear control for Flapping-Wing Unmanned Aerial Vehicles"](https://ieeexplore.ieee.org/document/11373150)* - [<i class="ai ai-ieee ai-fw icon-pad-left"></i>***Open Access***].
 - 07/2025: ***Breaktrough in control of constrained mechanical systems*** paper in **[<i class="ai ai-ieee ai-fw icon-pad-left"></i>IEEE Transactions on Automatic Control](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9)**. Title: *["Completeness of Riemannian metrics: an application to the control of constrained mechanical system"](https://ieeexplore.ieee.org/document/11106741)* - [<i class="ai ai-ieee ai-fw icon-pad-left"></i>***Open Access***].
 - 05/2025: ***Data-driven Nonlinear guidance of USV*** paper in **[<i class="ai ai-elsevier ai-fw icon-pad-left"></i>Ocean Engineering](https://www.sciencedirect.com/journal/ocean-engineering)**. Title: *["Learning port maneuvers from data for automatic guidance of Unmanned Surface Vehicles"](https://doi.org/10.1016/j.oceaneng.2025.121506)* - [<i class="ai ai-elsevier ai-fw icon-pad-left"></i>***Open Access***].
@@ -49,16 +50,17 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 - 29/04/2024: [**Decentralised Control for Trajectory Tracking Control in an Aerial Manipulator**](https://prisma.us.es/publicacion/246718). Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico.
 -->
 
-|#| Title *(descending chronological order)*  | Date   | University / Research Center |
-|-| :--------        | :------:| :------------------------------------------------------------ |
-|4| [**Bioinspired Optimization and Advanced Control of Flapping-Wing Bird-Size Unmanned Aerial Vehicles**](https://prisma.us.es/publicacion/285735)   | 21/05/2026   | Universidad de Sevilla, Spain |
-|3| [**Decentralised Control for Trajectory Tracking Control in an Aerial Manipulator**](https://prisma.us.es/publicacion/246718)  | 29/04/2024  | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico  |
-|2| [**Contributions to the interconnection of Systems through the Network and Robust Control**](https://prisma.us.es/publicacion/243652)   | 15/03/2024  | Universidad de Sevilla, Spain |
-|1| [**Nonlinear Control Strategies for Outdoor Aerial Manipulators**](https://prisma.us.es/publicacion/183826)   | 26/03/2021   | Universidad de Sevilla, Spain |
-|#| **PhD student** ***(ascending chronological order)*** | **Current State** | |
-|1| [Y.A. Becerra-Mora](https://prisma.us.es/investigador/9333) | Completion late-2026 *(estimated)* | Universidad de Sevilla, Spain |
-|2| F.J. Maldonado | *Started* early-2024 | Universidad de Sevilla, Spain |
-|3| D.P. Barragán-Vázquez | *Started* mid-2024 | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico |
-|4| [A. Garcia-Lora](https://prisma.us.es/investigador/9349) | *Started* early-2025 | **FPU** - Universidad de Sevilla, Spain |
+|#| PhD student *(descending chronological order)*  |    | University / Research Center |
+|-| :---        | :---:| :--- |
+| |  **Current PhD**  | **State** | |
+|8| [A. Garcia-Lora](https://prisma.us.es/investigador/9349) | *Started* early-2025 | **FPU** - Universidad de Sevilla, Spain |
+|7| F.J. Maldonado | *Started* early-2024 | Universidad de Sevilla, Spain |
+|6| D.P. Barragán-Vázquez | *Started* mid-2024 | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico |
+|5| [Y.A. Becerra-Mora](https://prisma.us.es/investigador/9333) | Completion late-2026 *(estimated)* | Universidad de Sevilla, Spain |
+| |  **Past PhD**  | **Date** | |
+|4| [**C. Ruiz Paez**](https://prisma.us.es/publicacion/285735)   | 21/05/2026   | Universidad de Sevilla, Spain |
+|3| [**Y.E. Tlatelpa Osorio**](https://prisma.us.es/publicacion/246718)  | 29/04/2024  | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico  |
+|2| [**J.M. Díaz Cano**](https://prisma.us.es/publicacion/243652)   | 15/03/2024  | Universidad de Sevilla, Spain |
+|1| [**C.R. de Cos**](https://prisma.us.es/publicacion/183826)   | 26/03/2021   | Universidad de Sevilla, Spain |
 
 **[Page content](#page-content)** \(top\)
