@@ -129,9 +129,9 @@ Service and leadership
 
 **[Page content](#page-content)** \(top\)
 
+<!-- Secure Responsive Iframe Embed
 ## CV
 
-<!-- Secure Responsive Iframe Embed -->
 <div class="iframe-container" style="width: 100%; overflow: hidden; margin: 20px 0;">
   <iframe 
     src="https://sica.juntadeandalucia.es/investigan/exportan_web?t=1&ak=21684C197F000001512BD5F74E9A3E1C&s=13b588bd57e06bb237a5151d55a96e32a692338c" 
@@ -142,5 +142,4 @@ Service and leadership
     allowfullscreen>
   </iframe>
 </div>
-
-**[Page content](#page-content)** \(top\)
+-->
