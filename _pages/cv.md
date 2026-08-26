@@ -128,3 +128,9 @@ Service and leadership
 - Energy-shaping controlled oscilations for the Furuta pendulum **[Video](https://personal.us.es/jaar/Datos/oscilaciones.avi)**
 
 **[Page content](#page-content)** \(top\)
+
+## CV
+
+<iframe src='http://sica.juntadeandalucia.es/investigan/exportan_web?t=1&ak=21684C197F000001512BD5F74E9A3E1C&s=13b588bd57e06bb237a5151d55a96e32a692338c' frameborder='0' width='100%' height='450px'></iframe>
+
+**[Page content](#page-content)** \(top\)
